@@ -166,6 +166,7 @@ table {
 }
 
 .menu li a {
+    font-family: Noto Sans;
   font-weight: 700;
   color: rgba(52, 58, 64, 1);
   text-decoration: none;
